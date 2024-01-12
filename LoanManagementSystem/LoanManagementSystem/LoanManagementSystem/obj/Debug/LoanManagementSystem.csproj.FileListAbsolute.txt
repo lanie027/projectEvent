@@ -1,0 +1,45 @@
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe.config
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\bin\Debug\LoanManagementSystem.pdb
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.Properties.Resources.resources
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.GenerateResource.cache
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.exe
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.pdb
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.Form1.resources
+C:\Users\Sasas-pc\source\repos\LoanManagementSystem\obj\Debug\LoanManagementSystem.temp.resources
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe.config
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.pdb
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.Form1.resources
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.Properties.Resources.resources
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.temp.resources
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.GenerateResource.cache
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.exe
+C:\Users\T H I N K P A D\Downloads\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.pdb
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.Form1.resources
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.Properties.Resources.resources
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.temp.resources
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.GenerateResource.cache
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.exe
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.pdb
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe.config
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe
+C:\Users\T H I N K P A D\Documents\code\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.pdb
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe.config
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.exe
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\bin\Debug\LoanManagementSystem.pdb
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.Form1.resources
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.Properties.Resources.resources
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.temp.resources
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.exe
+C:\Users\ACER\Desktop\Project\UPdateLoanManagement\LoanManagementSystem\LoanManagementSystem\LoanManagementSystem\obj\Debug\LoanManagementSystem.pdb
